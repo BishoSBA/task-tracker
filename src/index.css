@@ -38,7 +38,7 @@ body {
 	justify-content: center;
 	flex-direction: column;
 	min-height: 100vh;
-	/* background-image: url('imgs/paul-volkmer-qVotvbsuM_c-unsplash.jpg'); */
+	background-image: url("https://unsplash.com/photos/c9OCWLka764");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 250vh 100vh;
@@ -46,11 +46,11 @@ body {
 
 .container {
 	max-width: 66vh;
-	margin: 1px auto;
+	margin: 30px auto;
 	overflow: auto;
 	min-height: 300px;
 	border: 1px solid steelblue;
-	padding: 1px;
+	padding: 30px;
 	border-radius: 5px;
 	background-color: #313133a4;
 }
@@ -133,11 +133,11 @@ body {
 }
 
 .form-control-check label {
-	flex: 1;
+	flex: 2;
 }
 
 .form-control-check input {
-	flex: 2;
+	flex: 3;
 	height: 20px;
 }
 
