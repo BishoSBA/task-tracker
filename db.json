@@ -3,13 +3,13 @@
     {
       "text": "Job Interview",
       "day": "Nov 12th",
-      "reminder": true,
+      "reminder": false,
       "id": 12
     },
     {
       "text": "Tech Conference",
       "day": "Oct 30th",
-      "reminder": false,
+      "reminder": true,
       "id": 13
     },
     {
