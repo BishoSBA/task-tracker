@@ -1,5 +1,5 @@
 # Task Tracker
-A simple task tracker utilizing React.js
+A simple task tracker utilizing React
 
 **Link to project:** https://task-tracker.cyclic.app/
 
